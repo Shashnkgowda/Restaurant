@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4793132797702110788cf5d3f153af8a</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from URL Definition">8ae61f55cb21020000f8d856634c9c93</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 07:15:51</sys_created_on>
+        <sys_id>a0a3532797702110788cf5d3f153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+        <sys_update_name>sp_instance_table_a0a3532797702110788cf5d3f153afb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:15:51</sys_updated_on>
+        <table/>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=a0a3532797702110788cf5d3f153afb2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</application>
+        <file_path/>
+        <instance_id>cd096071db0d0510a667cac50596195b</instance_id>
+        <instance_name>dev121670</instance_name>
+        <name>sp_instance_table_a0a3532797702110788cf5d3f153afb2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list/><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>1</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">4793132797702110788cf5d3f153af8a</sp_column><sp_page/><sp_widget display_value="Data Table from URL Definition">8ae61f55cb21020000f8d856634c9c93</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-10 07:15:51</sys_created_on><sys_id>a0a3532797702110788cf5d3f153afb2</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package><sys_policy/><sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope><sys_update_name>sp_instance_table_a0a3532797702110788cf5d3f153afb2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-10 07:15:51</sys_updated_on><table/><title/><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=a0a3532797702110788cf5d3f153afb2"/></record_update>]]></payload>
+        <payload_hash>-166211940</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>de5d8b6f97302110788cf5d3f153af7b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 07:15:51</sys_created_on>
+        <sys_id>eca3532797702110788cf5d3f153afb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1863a2e32d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:15:51</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>28a3532787702110d5cf8cc6dd46b5b4</update_guid>
+        <update_guid_history>28a3532787702110d5cf8cc6dd46b5b4:-166211940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">cad39b2797702110788cf5d3f153af6d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-10 07:16:46</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>1f3f776f2eb643288584e13615d394e4</sys_id>
+        <sys_metadata>a0a3532797702110788cf5d3f153afb2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+        <sys_scope_delete display_value="">03a07131c1a443f0a15fc05afd452610</sys_scope_delete>
+        <sys_update_name>sp_instance_table_a0a3532797702110788cf5d3f153afb2</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_a0a3532797702110788cf5d3f153afb2">eca3532797702110788cf5d3f153afb4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:16:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

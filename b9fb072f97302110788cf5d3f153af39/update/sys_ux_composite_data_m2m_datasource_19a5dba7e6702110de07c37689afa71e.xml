@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">5da5dba7e67021107f10cd2860a7b51e</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">91a5dba71870211015a7d0f8ce21301e</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-10 07:24:41</sys_created_on>
+        <sys_id>19a5dba7e6702110de07c37689afa71e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_19a5dba7e6702110de07c37689afa71e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:24:41</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

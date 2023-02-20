@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="customer_name" label="Customer Name" language="en" table="x_820118_restaur_2_owner_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>customer_name</element>
+            <help/>
+            <hint/>
+            <label>Customer Name</label>
+            <language>en</language>
+            <name>x_820118_restaur_2_owner_table</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-10 06:53:36</sys_created_on>
+            <sys_id>268e03ef97302110788cf5d3f153afe6</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Customer Name</sys_name>
+            <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+            <sys_update_name>sys_documentation_x_820118_restaur_2_owner_table_customer_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-10 06:54:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

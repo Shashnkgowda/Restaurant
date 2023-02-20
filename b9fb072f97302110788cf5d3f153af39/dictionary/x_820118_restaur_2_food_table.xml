@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Food Table" max_length="40" name="x_820118_restaur_2_food_table" sizeclass="0" type="collection">
+        <element choice="3" label="Food Name" max_length="40" name="food_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Chicken Biriyani" sequence="0" value="chicken_biriyani"/>
+                <element inactive_on_update="false" label="Mutton Biriyani" sequence="1" value="mutton_biriyani"/>
+                <element inactive_on_update="false" label="Chicken 65" sequence="2" value="chicken_65"/>
+                <element inactive_on_update="false" label="Mutton Chops" sequence="3" value="mutton_chops"/>
+            </choice>
+        </element>
+        <element label="Food Price" max_length="38" name="food_price" type="currency"/>
+        <element choice="3" label="Food Quantity" max_length="40" name="food_quantity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Order ID" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Payment Result" max_length="40" name="payment_result" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Payment SuccessFull" sequence="0" value="payment_successfull"/>
+                <element inactive_on_update="false" label="Payment Failed" sequence="1" value="payment_failed"/>
+            </choice>
+        </element>
+        <element label="Total Price" max_length="38" name="total_price" type="currency"/>
+    </element>
+</database>

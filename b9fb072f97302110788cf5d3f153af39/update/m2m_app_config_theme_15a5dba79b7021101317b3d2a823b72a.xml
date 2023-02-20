@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">1da5dba764702110501c6beb68457829</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-10 07:24:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>15a5dba79b7021101317b3d2a823b72a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+        <sys_update_name>m2m_app_config_theme_15a5dba79b7021101317b3d2a823b72a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:24:39</sys_updated_on>
+        <theme display_value="Light Theme">9da5dba7a770211031b053c85836c729</theme>
+        <ux_app_configuration display_value="Restaurant Application Config">c9a59ba797702110788cf5d3f153affb</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

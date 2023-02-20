@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Owner Table" max_length="40" name="x_820118_restaur_2_owner_table" sizeclass="0" type="collection">
+        <element label="Customer Email ID" max_length="40" name="customer_email_id" type="string"/>
+        <element label="Customer Name" max_length="40" name="customer_name" type="string"/>
+        <element display="true" label="Customer PhoneNo" max_length="40" name="customer_phoneno" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

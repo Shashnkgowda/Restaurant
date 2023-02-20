@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Popular articles bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-10 07:24:42</sys_created_on>
+        <sys_id>95a5dba7167021108df3bd424191d01d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles bundle</sys_name>
+        <sys_package display_value="Restaurant Application" source="x_820118_restaur_2">b9fb072f97302110788cf5d3f153af39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Restaurant Application">b9fb072f97302110788cf5d3f153af39</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_95a5dba7167021108df3bd424191d01d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-10 07:24:42</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>
